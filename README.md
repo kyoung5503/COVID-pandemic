@@ -1,53 +1,46 @@
 ## Table of Contents
-* [Symptoms of Coronavirus](##symptoms-of-coronavirus)
-    * [What you Need to Know](###what-you-need-to-know)
-    * Watch for Symptoms
-    * When to Seek Emergency Attention
-    * Caring for Yourself and Others
-    * More Information About Symptoms
-* Testing
-    * Testing for COVID-19
-        * Who Should be Tested
-        * Results
-            * Results for Healthcare Professionals
-            * For Public Health Officials
-            * For Labratories
-        * More Informations About Testing for COVID-19
-    * Test for Current Infection
-        * How to Decide te get a Viral Test
-        * How to get a Viral Test
-        * What to do After a Viral Test
-            * Viral test for Healthcare Professionals
-        * More Information about Testing for Current Infection
-    * Testing for Past Infection
-        * How to get an Antibody Test
-            * If you Test Positive
-            * If you Test Negative
-            * Antibody Test for Healtrhcare Professionals
-        * CDC's Work in Antibody Testing
-            * Commercial Testing
-            * Conduction of Serologic Surveillance
-* How COVID-19 Spreads
-    * Person-to-Person
-    * The Virus Spreads Easily Between People
-    * The Virus may Spread in Other Ways
-    * Spread Between Animals and People 
-    * Protect Yourself and Others
-    * More Information about how COVID-19 Spreads
-* How to Protect Yourself and Others
-    * Know how it Spreads
-    * Everyone Should
-        * Wash their Hands Often
-        * Avoid Close Contact
-        * Wear Face Coverings
-        * Cover Coughs and Sneezes
-        * Clean and Disinfect
-        * Moonitor your Health
-    * Handwashing Resources
-    * More Informations about how to Protect Yourself and Others
-* Social Distancing
-    * What is Social Distancing?
-        * If you have been Exposed or Sick
+- [Symptoms of Coronavirus](#symptoms-of-coronavirus)
+    - [What you Need to Know](#what-you-need-to-know)
+    * [Watch for Symptoms](#watch-for-symptoms)
+    * [When to Seek Emergency Attention](#when-to-seek-emergency-medical-attention)
+    * [Caring for Yourself and Others](#caring-for-yourself-or-others)
+    * [More Information About Symptoms](#more-information-about-symptoms)
+* [Testing](#testing)
+    * [Testing for COVID-19](#testing-for-covid\-19)
+        * [Who Should be Tested](#who-should-be-tested)
+        * [Results](#results)
+        * [More Informations About Testing for COVID-19](#more-information-about-covid-testing)
+    * [Test for Current Infection](#test-for-current-infection)
+        * [How to Decide te get a Viral Test](#how-to-decide-if-you-should-get-a-viral-test)
+        * [How to get a Viral Test](#how-to-get-a-viral-test)
+        * [What to do After a Viral Test](#what-to-do-after-a-viral-test)
+        * [More Information about Testing for Current Infection](#more-information-about-viral-testing)
+    * [Testing for Past Infection](#test-for-past-infection)
+        * [How to get an Antibody Test](#how-to-get-an-antibody-test)
+            * [If you Test Positive](#if-you-test-positive)
+            * [If you Test Negative](#if-you-test-negative)
+        * [CDC's Work in Antibody Testing](#cdc’/s-work-in-antibody-testing)
+* [How COVID-19 Spreads](#how-covid\-19-spreads)
+    * [Person-to-Person](#person\-to\-person-spread)
+    * [The Virus Spreads Easily Between People](#the-virus-spreads-easily-between-people)
+    * [The Virus may Spread in Other Ways](#the-virus-may-be-spread-in-other-ways)
+    * [Spread Between Animals and People](#spread-between-animals-and-people)
+    * [Protect Yourself and Others](#protect-yourself-and-others)
+    * [More Information about how COVID-19 Spreads](#more-information-about-how-covid\-19-spreads)
+* [How to Protect Yourself and Others](#how-to-protect-yourself-and-others)
+    * [Know how it Spreads](#know-how-it-spreads)
+    * [Everyone Should](#everyone-should)
+        * [Wash their Hands Often](#wash-your-hands-often)
+        * [Avoid Close Contact](#avoid-close-contact)
+        * [Wear Face Coverings](#cover-your-mouth-and-nose-with-a-cloth-face-cover-when-around-others)
+        * [Cover Coughs and Sneezes](#cover-coughs-and-sneezes)
+        * [Clean and Disinfect](#clean-and-disinfect)
+        * [Monitor your Health](#monitor-your-health)
+    * [Handwashing Resources](#handwashing-resources)
+    * [More Informations about how to Protect Yourself and Others](#more-information-about-how-to-protect-yourself-and-others)
+* [Social Distancing](#social-distancing)
+    * [What is Social Distancing?](#what-is-social-distancing\?)
+        * [If you have been Exposed or Sick](#if-you-are-exposed-or-sick)
 
 
 # Coronavirus Disease 2019 - 2020
@@ -89,14 +82,14 @@ Look for **emergency warning signs\*** for COVID-19. If someone is showing any o
 * [How to care for someone who is sick](https://www.cdc.gov/coronavirus/2019-ncov/if-you-are-sick/care-for-someone.html)
 * [What to do if you are sick](https://www.cdc.gov/coronavirus/2019-ncov/if-you-are-sick/steps-when-sick.html)
 
-### More Information
+### More Information about Symptoms
 * [Older Adults](https://www.cdc.gov/coronavirus/2019-ncov/need-extra-precautions/older-adults.html)
 * [People at Higher Risk for Severe Illness](https://www.cdc.gov/coronavirus/2019-ncov/need-extra-precautions/people-at-higher-risk-old.html)
 * [Travelers](https://www.cdc.gov/coronavirus/2019-ncov/travelers/index.html)
 * [Healthcare Professionals](https://www.cdc.gov/coronavirus/2019-ncov/hcp/index.html)
 
-# Testing
-## Testing for COVID-19
+## Testing
+### Testing for COVID-19
 
 Two kinds of tests are available for COVID-19: [viral tests](https://www.cdc.gov/coronavirus/2019-ncov/testing/diagnostic-testing.html) and [antibody tests](https://www.cdc.gov/coronavirus/2019-ncov/testing/serology-overview.html).
 
@@ -125,10 +118,10 @@ For information on evaluating and testing, see [recommendations for reporting, t
 **For public health professionals**
 For information on antibody surveillance, see [objectives and types of surveys.](https://www.cdc.gov/coronavirus/2019-ncov/covid-data/serology-surveillance/index.html)
 
-**For laboratorians**
+**For laboratories**
 For information on CDC viral and antibody testing, see information on [CDC lab tests.](https://www.cdc.gov/coronavirus/2019-nCoV/lab/index.html)
 
-More Information
+#### More Information about COVID testing
 [HHS Community Based Viral Testing Sites for COVID-19](https://www.hhs.gov/coronavirus/community-based-testing-sites/index.html)
 
 ### Test for Current Infection
@@ -161,13 +154,13 @@ To get your test result, please check with the group that performed your test, s
 
 For information on evaluating and testing, see [recommendations for reporting, testing, and specimen collection](https://www.cdc.gov/coronavirus/2019-nCoV/hcp/clinical-criteria.html)
 
-#### More Information
+#### More Information about Viral Testing
 [HHS Community Based Viral Testing Sites for COVID-19](https://www.hhs.gov/coronavirus/community-based-testing-sites/index.html)
 [CDC: Frequently Asked Questions on Symptoms & Testing](https://www.cdc.gov/coronavirus/2019-ncov/faq.html#Symptoms-&-Testing)
 [U.S. Food and Drug Administration FAQs on Viral Testing for SARS-CoV-2](https://www.fda.gov/medical-devices/emergency-situations-medical-devices/faqs-diagnostic-testing-sars-cov-2)
 
 
-## Test for Past Infection (Antibody Test)
+## Test for Past Infection
 Antibody tests check your blood by looking for antibodies, which can show if you had a past infection with the virus that causes COVID-19. Antibodies are proteins that help fight off infections and usually provide protection against getting that disease again (immunity). Antibodies are disease specific. For example, measles antibody will protect a person who is exposed again to measles but will have no effect if the person is exposed to mumps.
 
 Depending on when someone was infected and the timing of the test, the test may not find antibodies in someone with a current COVID-19 infection. Antibody tests should not be used to diagnose COVID-19. To see if you are currently infected, you need a [viral test](https://www.cdc.gov/coronavirus/2019-ncov/testing/diagnostic-testing.html). Viral tests identify the virus in samples from your respiratory system, such as swabs from the inside of your nose.
@@ -254,7 +247,7 @@ It may be possible that a person can get COVID-19 by **touching a surface or obj
 
 Learn more about what you can do to [protect yourself and others](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/prevention.html).
 
-#### More Information
+#### More Information about how COVID-19 Spreads
 [ASL Video Series: How does COVID-19 Spread?](https://www.youtube.com/watch?v=m4gborCUztk&list=PLvrp9iOILTQatwnqm61jqFrsfUB4RKh6J&index=7&t=0s)
 
 ## How to Protect Yourself & Others
@@ -314,7 +307,7 @@ people arrows icon
 [Handwashing tips](https://www.cdc.gov/handwashing/)
 [Hand Hygiene in Healthcare Settings](https://www.cdc.gov/handhygiene/index.html)
 
-#### More information
+#### More information about How to Protect yourself and Others
 * [Symptoms](https://www.cdc.gov/coronavirus/2019-ncov/symptoms-testing/symptoms.html)
 * [What to do if you are sick](https://www.cdc.gov/coronavirus/2019-ncov/if-you-are-sick/steps-when-sick.html)
 * [If someone in your house gets sick](https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/checklist-household-ready.html)
