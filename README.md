@@ -1,6 +1,6 @@
 ## Table of Contents
-* [Symptoms of Coronavirus](##symptoms-of-coronavirus)
-    * What you Need to Know
+* [Symptoms of Coronavirus](##-symptoms-of-coronavirus)
+    * [What you Need to Know](###-what-you-need-to-know)
     * Watch for Symptoms
     * When to Seek Emergency Attention
     * Caring for Yourself and Others
